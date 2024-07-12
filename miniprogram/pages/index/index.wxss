@@ -2,6 +2,7 @@
 page {
   height: 100vh;
   display: flex;
+  color: #aaa;
   flex-direction: column;
 }
 .scrollarea {

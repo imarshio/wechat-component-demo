@@ -19,7 +19,7 @@
     "packNpmRelationList": [],
     "ignoreUploadUnusedFiles": true,
     "compileHotReLoad": false,
-    "skylineRenderEnable": true
+    "skylineRenderEnable": false
   },
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
