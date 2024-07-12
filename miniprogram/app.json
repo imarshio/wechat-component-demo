@@ -4,8 +4,12 @@
     "pages/logs/logs"
   ],
   "window": {
+    "navigationBarTitleText": "状态栏 + 导航条 全局配置",
     "navigationBarTextStyle": "black",
-    "navigationStyle": "custom"
+    "navigationBarBackgroundColor": "#f3514f",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#efefef",
+    "backgroundTextStyle": "dark"
   },
   "style": "v2",
   "renderer": "skyline",
